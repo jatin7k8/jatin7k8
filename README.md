@@ -1,6 +1,4 @@
-<img src="https://camo.githubusercontent.com/7d7149a7c9e246420ae54873d7fef3580ca72645c814129a7f7d987dc1f6c5b8/68747470733a2f2f656b74656c696f6e2e67722f77702d636f6e74656e742f75706c6f6164732f506978656c41727447616d65526f6f6d2e676966" alt="GIF" data-canonical-src="https://ektelion.gr/wp-content/uploads/PixelArtGameRoom.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-
+![GIF](https://ektelion.gr/wp-content/uploads/PixelArtGameRoom.gif)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -9,7 +7,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 
-  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+ 
   
   👋 Hi, I’m @jatin7k8
 - 👀 I’m interested in ...
