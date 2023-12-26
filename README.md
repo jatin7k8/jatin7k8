@@ -1,3 +1,6 @@
+<img src="https://camo.githubusercontent.com/7d7149a7c9e246420ae54873d7fef3580ca72645c814129a7f7d987dc1f6c5b8/68747470733a2f2f656b74656c696f6e2e67722f77702d636f6e74656e742f75706c6f6164732f506978656c41727447616d65526f6f6d2e676966" alt="GIF" data-canonical-src="https://ektelion.gr/wp-content/uploads/PixelArtGameRoom.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
