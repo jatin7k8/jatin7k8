@@ -1,4 +1,6 @@
 ![GIF](https://ektelion.gr/wp-content/uploads/PixelArtGameRoom.gif)
+![1-dBPwuC3Dh2WWFFYTwogTMA](https://github.com/jatin7k8/jatin7k8/assets/142636730/2846f478-c440-4228-97c7-91537a2dcb46)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;🔥+My+name+is+Jatin+Kumar!;💻+I'm+Data+Analyst!;" />
 </h1>
