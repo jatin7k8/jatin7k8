@@ -28,8 +28,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
 </div>
 
 
+## 📜SQL
+
+| Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
+|-----|---|---|---|
+|[![supermarket](https://img.shields.io/badge/-TARGET-e0e0e0?style=for-the-badge&logo=target&logoColor=red)](https://github.com/jatin7k8/Target-Insights-Retail-Customer-Purchase-Analysis-)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Business Case Study for the giant retail store `Target` in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
 
