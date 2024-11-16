@@ -47,3 +47,17 @@
 |-----|---|---|---|
 |[![supermarket](https://img.shields.io/badge/-TARGET-e0e0e0?style=for-the-badge&logo=target&logoColor=red)](https://github.com/jatin7k8/Target-Insights-Retail-Customer-Purchase-Analysis-)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Business Case Study for the giant retail store `Target` in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
 
+
+***
+
+## 🪄 Tableau & Power BI
+
+| **Project Link** 🫵🏼 | **Tools Used** | **Area of Analysis** | **Project Description** |  
+|----------------------|----------------|-----------------------|--------------------------|  
+| [<img alt="Static Badge" src="https://img.shields.io/badge/INTERACTIVE%20REAL%20ESTATE%20DASHBOARD-Dash?style=flat&logo=%23ECD53F">](https://github.com/jatin7k8/Real_Estate_Dashboard_Report) | Tableau, Microsoft Excel | Data Cleaning, Data Analysis, Data Exploration, Data Visualization, Dashboard | A comprehensive data visualization project designed to unravel the complexities of the real estate market with interactive dashboards and insightful analytics. |
+
+
+
+
+***
+
